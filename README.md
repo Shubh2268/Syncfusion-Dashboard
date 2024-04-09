@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://fitness-monster.netlify.app" target="_blank">
+    <a href="https://syncfusion-dashboard-01.netlify.app" target="_blank">
       <img src="https://imagetolink.com/ib/cWZk9SOLoz.png" alt="FM Banner">
     </a>
   <br />
@@ -51,7 +51,7 @@ and many more, including code architecture and reusability
 
 ## <a name="links">🔗 Links</a>
 
-- [Live Website](https://fitness-monster.netlify.app/) 
+- [Live Website](https://syncfusion-dashboard-01.netlify.app/) 
 
 
 
